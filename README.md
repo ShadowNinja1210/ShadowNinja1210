@@ -13,6 +13,7 @@ As a graphic design enthusiast, I possess expertise in tools like Adobe Photosho
 ## Skills
 
 - Front-end: ReactJS, NextJS, HTML, CSS, Tailwind CSS
+- Language: JavaScript
 - Back-end: NodeJS, ExpressJS, MongoDB
 - Tools: Adobe Photoshop, Adobe Illustrator, Figma, GitHub
 - Problem Solving | Collaboration | Creativity
