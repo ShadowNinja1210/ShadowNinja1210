@@ -1,42 +1,44 @@
 # Mohit Jeswani | Web Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1abc9c.svg)](https://www.yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/mohit-jeswani-0233041b2/)
 
 ## About Me
 
-I am a passionate web developer with a focus on full-stack development. I have a strong background in JavaScript, Node.js, Express.js, and MongoDB. I enjoy creating dynamic and interactive web applications and constantly strive to expand my knowledge and skills in the field.
+I am a passionate web developer with a focus on full-stack development. I have acquired skills in MERN Stack, NextJS and still learning more and making projects to polish my skills. I enjoy creating dynamic and interactive web applications and constantly strive to expand my knowledge and skills in the field.
 
 ## Projects
 
-### Project 1: Project Name
+### Project 1: Little Lemon
 
-Brief description of the project and its features. Include technologies used, any challenges faced, and how you overcame them.
+A front-end project designed using Figma, the final project for my Meta Front-end Developer certification. Built with ReactJS and react-hook-form, it's a responsive website with a table reservation form.
 
-- GitHub Repository: [Project 1](https://github.com/yourusername/project1)
-- Live Demo: [Project 1 Demo](https://www.project1demo.com)
+- GitHub Repository: [Little Lemon](https://github.com/ShadowNinja1210/little_lemon)
+- Live Demo: [Little Lemon Website](https://little-lemon-web.netlify.app/)
 
-### Project 2: Project Name
+### Project 2: DALL-E 2.0 Clone
 
-Brief description of the project and its features. Include technologies used, any challenges faced, and how you overcame them.
+A functional MERN Stack project that's a clone of DALL-E 2.0. The "Create" button generates images shareable with the community. Utilized DALL-E API, MongoDB for the database, and Cloudinary for image cloud service. Responsive with Tailwind CSS, ReactJS, ExpressJS, NodeJS, and a search bar for Name or prompt search.
 
-- GitHub Repository: [Project 2](https://github.com/yourusername/project2)
-- Live Demo: [Project 2 Demo](https://www.project2demo.com)
+- GitHub Repository: [DALL-E 2.0](https://github.com/ShadowNinja1210/dall-e)
+- Live Demo: [DALL-E 2.0 Website](https://dall-e-mern-self.vercel.app/)
 
-### Project 3: Project Name
+### Project 3: Promptopia
 
-Brief description of the project and its features. Include technologies used, any challenges faced, and how you overcame them.
+A Fullstack NextJS project with a responsive website. Built with tailwind CSS, NextJS, ReactJS, OAuth, and MongoDB for the database. Sign in with Google to create, update, or delete prompts. Search existing prompts and explore tags or user profiles.
 
-- GitHub Repository: [Project 3](https://github.com/yourusername/project3)
-- Live Demo: [Project 3 Demo](https://www.project3demo.com)
+- GitHub Repository: [Promptopia](https://github.com/ShadowNinja1210/share-prompt)
+- Live Demo: [Promptopia Website](https://share-prompt-zeta.vercel.app/)
 
 ## Skills
 
 - JavaScript
+- React.js
+- Next.js
 - Node.js
 - Express.js
 - MongoDB
 - HTML/CSS
+- Tailwind CSS
 - RESTful APIs
 - Git/GitHub
 - Problem Solving
@@ -44,9 +46,8 @@ Brief description of the project and its features. Include technologies used, an
 
 ## Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
-- Portfolio: [Your Portfolio](https://www.yourportfolio.com)
-- Email: yourname@example.com
+- LinkedIn: [Mohit Jeswani](https://www.linkedin.com/in/mohit-jeswani-0233041b2/)
+- Email: mohitjeswani1210@gmail.com
 
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to say hello!
+Feel free to reach out if you have any questions, or collaboration opportunities, or just want to say hello!
 
