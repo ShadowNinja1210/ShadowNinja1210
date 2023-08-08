@@ -1,67 +1,18 @@
-# Mohit Jeswani | Web Developer
+<h1 align="center">Hi 👋, I'm Mohit Jeswani</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/mohit-jeswani-0233041b2/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey.svg)](https://github.com/ShadowNinja1210)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowninja1210&label=Profile%20views&color=0e75b6&style=flat" alt="shadowninja1210" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadowninja1210" alt="shadowninja1210" /></a> </p>
 
-I am a passionate web developer with a strong foundation in full-stack development. My journey in web development has been fueled by curiosity and the desire to create meaningful, dynamic, and interactive web applications. From front-end design to back-end functionalities, I am dedicated to continuously learning and honing my skills to craft seamless digital experiences.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohit-jeswani-0233041b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-jeswani-0233041b2" height="30" width="40" /></a>
+</p>
 
-## Graphic Design Experience
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-As a graphic design enthusiast, I possess expertise in tools like Adobe Photoshop, Adobe Illustrator, and Figma. My design skills complement my development capabilities, allowing me to create visually appealing and user-friendly interfaces for web applications.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowninja1210&show_icons=true&locale=en" alt="shadowninja1210" /></p>
 
-## Skills
-
-- Front-end: ReactJS, NextJS, HTML, CSS, Tailwind CSS
-- Language: JavaScript
-- Back-end: NodeJS, ExpressJS, MongoDB
-- Tools: Adobe Photoshop, Adobe Illustrator, Figma, GitHub
-- Problem Solving | Collaboration | Creativity
-
-## Education
-
-**Bachelor of Computer Applications | Swami Vivekanand Subharti University, Meerut**
-
-*EXPECTED – MAY 2024*
-
-**Higher Secondary Education | Golden International School, Indore**
-
-*MARCH 2017 – APRIL 2019*
-
-## Certificates
-
-**Meta Front-End Developer | Coursera | JUNE 2023**
-
-- Proficient in responsive website development using HTML, CSS, and JavaScript.
-- Strong problem-solving skills and experience with React and JavaScript libraries.
-- Portfolio-ready projects and version control with Git.
-
-**The Complete 2023 Web Development Bootcamp | Udemy | MARCH 2023**
-
-- Comprehensive web development course covering front-end and back-end technologies.
-- Expertise in HTML, CSS, Flexbox, Grid, Bootstrap, JavaScript, jQuery, Node.js, Express.js, MongoDB, Mongoose, Authentication, and Firebase.
-- Explored web design, deployment, and web3 development with blockchain technology.
-
-## Web Creations
-
-### Little Lemon
-Responsive ReactJS website with a table reservation feature.
-- [GitHub Repository](https://github.com/ShadowNinja1210/little_lemon)
-- [Live Demo](https://little-lemon-web.netlify.app/)
-
-### Share Prompt
-A Full-stack NextJS website with OAuth and MongoDB as a database.
-- [GitHub Repository](https://github.com/ShadowNinja1210/share-prompt)
-- [Live Demo](https://share-prompt-zeta.vercel.app/)
-
-### DALL-E 2.0
-A MERN-Stack clone of the DALL-E website using DALL-E API by OpenAI and MongoDB for a Database.
-- [GitHub Repository](https://github.com/ShadowNinja1210/dall-e)
-- [Live Demo](https://dall-e-mern-self.vercel.app/)
-
-## Contact Me
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/mohit-jeswani-0233041b2/)
-- [![Email](https://img.shields.io/badge/Email-Contact-success.svg)](mailto:mohitjeswani1210@gmail.com)
-
-Let's create innovative web experiences together! Reach out if you have any questions, collaboration opportunities, or just want to connect!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowninja1210&" alt="shadowninja1210" /></p>
