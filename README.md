@@ -12,33 +12,34 @@ As a graphic design enthusiast, I possess expertise in tools like Adobe Photosho
 - Tools: Adobe Photoshop, Adobe Illustrator, Figma, GitHub
 - Problem Solving | Collaboration | Creativity
 ## Education
-**Bachelor of Computer Applications | Swami Vivekanand Subharti University, Meerut**
+**Bachelor of Computer Applications | Swami Vivekanand Subharti University, Meerut** <br/>
 *EXPECTED – AUGUST 2024*
-**Higher Secondary Education | Golden International School, Indore**
+
+**Higher Secondary Education | Golden International School, Indore**<br/>
 *MARCH 2017 – APRIL 2019*
 ## Certificates
-**Meta Front-End Developer | Coursera | JUNE 2023**
+#### **Meta Front-End Developer | Coursera | JUNE 2023**
 - Proficient in responsive website development using HTML, CSS, and JavaScript.
 - Strong problem-solving skills and experience with React and JavaScript libraries.
 - Portfolio-ready projects and version control with Git.
-**The Complete 2023 Web Development Bootcamp | Udemy | MARCH 2023**
+#### **The Complete 2023 Web Development Bootcamp | Udemy | MARCH 2023**
 - Comprehensive web development course covering front-end and back-end technologies.
 - Expertise in HTML, CSS, Flexbox, Grid, Bootstrap, JavaScript, jQuery, Node.js, Express.js, MongoDB, Mongoose, Authentication, and Firebase.
 - Explored web design, deployment, and web3 development with blockchain technology.
 ## Web Creations
 ### Little Lemon
-Responsive ReactJS website with a table reservation feature.
+> Responsive ReactJS website with a table reservation feature.
 - [GitHub Repository](https://github.com/ShadowNinja1210/little_lemon)
 - [Live Demo](https://little-lemon-web.netlify.app/)
 ### Share Prompt
-A Full-stack NextJS website with OAuth and MongoDB as a database.
+> A Full-stack NextJS website with OAuth and MongoDB as a database.
 - [GitHub Repository](https://github.com/ShadowNinja1210/share-prompt)
 - [Live Demo](https://share-prompt-zeta.vercel.app/)
 ### Discord Clone
-A Next JS clone of the Discord using Clerk and MongoDB for a Database.
+> A Next JS clone of the Discord using Clerk and MongoDB for a Database.
 - [GitHub Repository](https://github.com/ShadowNinja1210/discord-clone)
 - [Live Demo](https://discord-clone-beige-six.vercel.app/)
 ## Contact Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/mohit-jeswani-0233041b2/)
-- [![Email](https://img.shields.io/badge/Email-Contact-success.svg)](mailto:mohitjeswani1210@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-Contact-success.svg)](mailto:mohitjeswani1210@gmail.com)<br/>
 Let's create innovative web experiences together! Reach out if you have any questions, collaboration opportunities, or just want to connect!
