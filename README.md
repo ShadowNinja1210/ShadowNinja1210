@@ -13,7 +13,7 @@ As a graphic design enthusiast, I possess expertise in tools like Adobe Photosho
 - Problem Solving | Collaboration | Creativity
 ## Education
 **Bachelor of Computer Applications | Swami Vivekanand Subharti University, Meerut**
-*EXPECTED – MAY 2024*
+*EXPECTED – AUGUST 2024*
 **Higher Secondary Education | Golden International School, Indore**
 *MARCH 2017 – APRIL 2019*
 ## Certificates
