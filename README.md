@@ -34,10 +34,10 @@ Responsive ReactJS website with a table reservation feature.
 A Full-stack NextJS website with OAuth and MongoDB as a database.
 - [GitHub Repository](https://github.com/ShadowNinja1210/share-prompt)
 - [Live Demo](https://share-prompt-zeta.vercel.app/)
-### DALL-E 2.0
-A MERN-Stack clone of the DALL-E website using DALL-E API by OpenAI and MongoDB for a Database.
-- [GitHub Repository](https://github.com/ShadowNinja1210/dall-e)
-- [Live Demo](https://dall-e-mern-self.vercel.app/)
+### Discord Clone
+A Next JS clone of the Discord using Clerk and MongoDB for a Database.
+- [GitHub Repository](https://github.com/ShadowNinja1210/discord-clone)
+- [Live Demo]((https://discord-clone-beige-six.vercel.app/))
 ## Contact Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/mohit-jeswani-0233041b2/)
 - [![Email](https://img.shields.io/badge/Email-Contact-success.svg)](mailto:mohitjeswani1210@gmail.com)
